@@ -1,7 +1,7 @@
 export const cfg = {
 
   CREATURE_COUNT: 6,
-  SPAWN_SPREAD:   8,
+  SPAWN_SPREAD:   0,
   BG_CSS:         '#ff0000',
   BODY_BLEND:     'exclusion',
 
